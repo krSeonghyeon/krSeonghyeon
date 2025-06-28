@@ -12,18 +12,17 @@
 
 ## 💼 Career
 #### [삼성전기](https://www.samsungsem.com/)
-- 컴포넌트설비개발2G
+- 설비개발연구소, 컴포넌트설비개발2G
 - Data Engineer (2025.06 ~ 현재)
 - AI기반의 성형/인쇄 공정 모델 구축을 위한 Data 전처리 및 모니터링 시스템 개발
 
 #### [BCSD Lab](https://bcsdlab.com/)
-한국기술교육대학교 교내 IT 동아리로 MAU 3300명 이상의 [학교 커뮤니티 서비스 KOIN](https://koreatech.in/) 개발 및 운영
+한국기술교육대학교 교내 IT 동아리, MAU 3300명 이상의 학교 커뮤니티 서비스 [KOIN](https://koreatech.in/) 개발 및 운영
 - Campus Team Leader (2025.03 ~ )
 - BackEnd Education Lead (2025.03 ~ )
-- BackEnd Developer
+- BackEnd Developer (2023.08 ~ )
   - Campus Team (2025.03 ~ )
   - Business Team (2024.08 ~ 2025.02)
-  - BackEnd Track (2023.08 ~ )
 
 ## 🪪 Profile
 <table>
