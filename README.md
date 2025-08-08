@@ -24,6 +24,22 @@
   - Campus Team (2025.03 ~ )
   - Business Team (2024.08 ~ 2025.02)
 
+## 🏆 Awards
+<table>
+  <tr>
+    <th align="center">Award</th>
+    <th align="center">Type</th>
+    <th align="center">Host</th>
+    <th align="center">Date</th>
+  </tr>
+  <tr>
+    <td align="center">KOREATECH CSE TECH DAY</td>
+    <td align="center">최우수작품상</td>
+    <td align="center">KOREATECH</td>
+    <td align="center">2025.07</td>
+  </tr>
+</table>
+
 ## 🪪 Profile
 <table>
   <tr>
@@ -36,7 +52,7 @@
     <td align="center">Overall 4.4 / 4.5</td>
   </tr>
   <tr>
-    <td align="center" rowspan="3">Certificate</td>
+    <td align="center" rowspan="4">Certificate</td>
     <td align="center">정보처리기사</td>
     <td align="center">2025.06</td>
   </tr>
@@ -47,6 +63,10 @@
   <tr>
     <td align="center">컴퓨터활용능력 1급</td>
     <td align="center">2022.11</td>
+  </tr>
+  <tr>
+    <td align="center">토익스피킹 IM3</td>
+    <td align="center">2025.08</td>
   </tr>
   <tr>
     <td align="center">Military</td>
