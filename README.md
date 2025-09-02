@@ -52,13 +52,17 @@
     <td align="center">Overall 4.4 / 4.5</td>
   </tr>
   <tr>
-    <td align="center" rowspan="4">Certificate</td>
+    <td align="center" rowspan="5">Certificate</td>
     <td align="center">정보처리기사</td>
     <td align="center">2025.06</td>
   </tr>
   <tr>
     <td align="center">SQLD</td>
     <td align="center">2025.04</td>
+  </tr>
+  <tr>
+    <td align="center">Adsp</td>
+    <td align="center">2025.09</td>
   </tr>
   <tr>
     <td align="center">컴퓨터활용능력 1급</td>
