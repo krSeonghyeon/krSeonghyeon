@@ -52,7 +52,7 @@
     <td align="center">Overall 4.4 / 4.5</td>
   </tr>
   <tr>
-    <td align="center" rowspan="5">Certificate</td>
+    <td align="center" rowspan="6">Certificate</td>
     <td align="center">정보처리기사</td>
     <td align="center">2025.06</td>
   </tr>
@@ -71,6 +71,10 @@
   <tr>
     <td align="center">토익스피킹 IM3</td>
     <td align="center">2025.08</td>
+  </tr>
+  <tr>
+    <td align="center">리눅스마스터 2급</td>
+    <td align="center">2025.10</td>
   </tr>
   <tr>
     <td align="center">Military</td>
