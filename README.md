@@ -38,6 +38,12 @@
     <td align="center">KOREATECH</td>
     <td align="center">2025.07</td>
   </tr>
+  <tr>
+    <td align="center">KOREATECH 졸업작품 경진대회</td>
+    <td align="center">동상</td>
+    <td align="center">KOREATECH</td>
+    <td align="center">2025.10</td>
+  </tr>
 </table>
 
 ## 🪪 Profile
