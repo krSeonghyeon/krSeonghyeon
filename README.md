@@ -18,10 +18,10 @@
 
 #### [BCSD Lab](https://bcsdlab.com/)
 한국기술교육대학교 교내 IT 동아리, MAU 3300명 이상의 학교 커뮤니티 서비스 [KOIN](https://koreatech.in/) 개발 및 운영
-- Campus Team Leader (2025.03 ~ )
-- BackEnd Education Lead (2025.03 ~ )
+- Campus Team Leader (2025.03 ~ 2025.09)
+- BackEnd Education Lead (2025.03 ~ 2025.09)
 - BackEnd Developer (2023.08 ~ )
-  - Campus Team (2025.03 ~ )
+  - Campus Team (2025.03 ~ 2025.09)
   - Business Team (2024.08 ~ 2025.02)
 
 ## 🏆 Awards
@@ -31,6 +31,12 @@
     <th align="center">Type</th>
     <th align="center">Host</th>
     <th align="center">Date</th>
+  </tr>
+    <tr>
+    <td align="center">AI Festa 경진대회</td>
+    <td align="center">대상</td>
+    <td align="center">KOREATECH</td>
+    <td align="center">2025.09</td>
   </tr>
   <tr>
     <td align="center">KOREATECH CSE TECH DAY</td>
