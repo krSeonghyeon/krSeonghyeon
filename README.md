@@ -11,6 +11,10 @@
 ![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 💼 Career
+#### [HMG 소프티어 7기](https://softeer-bootcamp.com/)
+- 현대자동차그룹 채용연계형 교육과정
+- BackEnd Developer (2025.12 ~ )
+
 #### [삼성전기](https://www.samsungsem.com/)
 - 설비개발연구소, 컴포넌트설비개발2G
 - Data Engineer (2025.06 ~ 2025.12)
