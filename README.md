@@ -16,9 +16,8 @@
 - BackEnd Developer (2025.12 ~ )
 
 #### [삼성전기](https://www.samsungsem.com/)
-- 설비개발연구소, 컴포넌트설비개발2G
-- Data Engineer (2025.06 ~ 2025.12)
 - AI 모델 모니터링 시스템 개발 및 데이터 분석 지원
+- Data Engineer (2025.06 ~ 2025.12)
 
 #### [BCSD Lab](https://bcsdlab.com/)
 한국기술교육대학교 교내 IT 동아리, DAU 1300+ MAU 3300+ 학교 커뮤니티 서비스 [KOIN](https://koreatech.in/) 개발 및 운영
