@@ -67,33 +67,20 @@
     <td align="center">Overall 4.4 / 4.5</td>
   </tr>
   <tr>
-    <td align="center" rowspan="7">Certificate</td>
+    <td align="center" rowspan="4">Certificate</td>
     <td align="center">정보처리기사</td>
-    <td align="center">2025.06</td>
-  </tr>
-  <tr>
     <td align="center">빅데이터분석기사</td>
-    <td align="center">2025.12</td>
   </tr>
   <tr>
     <td align="center">SQLD</td>
-    <td align="center">2025.04</td>
-  </tr>
-  <tr>
-    <td align="center">Adsp</td>
-    <td align="center">2025.09</td>
+    <td align="center">ADsP</td>
   </tr>
   <tr>
     <td align="center">컴퓨터활용능력 1급</td>
-    <td align="center">2022.11</td>
-  </tr>
-  <tr>
-    <td align="center">토익스피킹 IM3</td>
-    <td align="center">2025.08</td>
-  </tr>
-  <tr>
     <td align="center">리눅스마스터 2급</td>
-    <td align="center">2025.10</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">토익스피킹 IM3</td>
   </tr>
   <tr>
     <td align="center">Military</td>
