@@ -11,7 +11,7 @@
 ![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 💼 Career
-#### [국민카드](https://card.kbcard.com/)
+#### [KB국민카드](https://card.kbcard.com/)
 - IT (2026.01 ~ )
 
 #### [HMG 소프티어 7기](https://softeer-bootcamp.com/)
