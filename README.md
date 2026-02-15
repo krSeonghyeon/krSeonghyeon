@@ -39,7 +39,7 @@
     <th align="center">Date</th>
   </tr>
     <tr>
-    <td align="center">AI Festa 경진대회</td>
+    <td align="center">AI Festa 2025 경진대회(COEX)</td>
     <td align="center">대상</td>
     <td align="center">SW중심대학사업단</td>
     <td align="center">2025.09</td>
