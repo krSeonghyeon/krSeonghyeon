@@ -23,10 +23,10 @@
 - Data Engineer (2025.06 ~ 2025.12)
 
 #### [BCSD Lab](https://bcsdlab.com/)
-한국기술교육대학교 교내 IT 동아리, DAU 1300+ MAU 3300+ 학교 커뮤니티 서비스 [KOIN](https://koreatech.in/) 개발 및 운영
+교내 IT 동아리, DAU 1300+ MAU 3300+ 학교 커뮤니티 서비스 [KOIN](https://koreatech.in/) 개발 및 운영
 - Campus Team Leader (2025.03 ~ 2025.09)
 - BackEnd Education Lead (2025.03 ~ 2025.09)
-- BackEnd Developer (2023.08 ~ )
+- BackEnd Developer (2023.08 ~ 2026.01)
   - Campus Team (2025.03 ~ 2025.09)
   - Business Team (2024.08 ~ 2025.02)
 
@@ -62,7 +62,7 @@
 <table>
   <tr>
     <td align="center">School</td>
-    <td align="center" colspan="2">KOREATECH, Computer Science and Engineering</td>
+    <td align="center" colspan="2">KOREATECH(20.03 ~ 26.02), 컴퓨터공학 심화, 수석</td>
   </tr>
   <tr>
     <td align="center">GPA</td>
