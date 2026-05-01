@@ -12,21 +12,22 @@
 
 ## 💼 Career
 #### [KB국민카드](https://card.kbcard.com/)
-- IT 인프라시스템부 서버운영팀 (2026.01 ~ )
+- IT 인프라시스템부 서버운영팀 (2026.01 ~ 현재)
+- Infrastructure Engineer (Card Authorization Systems)
 
 #### [HMG 소프티어 7기](https://softeer-bootcamp.com/)
-- 현대자동차그룹 채용연계형 교육과정
-- BackEnd Developer (2025.12 ~ 2026.01)
+- 현대자동차/기아 채용연계형 교육과정 (2025.12 ~ 2026.01)
+- Backend Developer
 
 #### [삼성전기](https://www.samsungsem.com/)
-- AI 모델 모니터링 시스템 개발 및 데이터 분석 지원
-- Data Engineer (2025.06 ~ 2025.12)
+- AI 모델 모니터링 시스템 개발 및 데이터 분석 지원 (2025.06 ~ 2025.12)
+- Data Engineer
 
 #### [BCSD Lab](https://bcsdlab.com/)
 교내 IT 동아리, DAU 1300+ MAU 3300+ 학교 커뮤니티 서비스 [KOIN](https://koreatech.in/) 개발 및 운영
 - Campus Team Leader (2025.03 ~ 2025.09)
-- BackEnd Education Lead (2025.03 ~ 2025.09)
-- BackEnd Developer (2023.08 ~ 2026.01)
+- Backend Education Lead (2025.03 ~ 2025.09)
+- Backend Developer (2023.08 ~ 2026.01)
   - Campus Team (2025.03 ~ 2025.09)
   - Business Team (2024.08 ~ 2025.02)
 
