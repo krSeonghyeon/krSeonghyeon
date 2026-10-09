@@ -15,7 +15,7 @@
 - IT 인프라시스템부 서버운영팀 (2026.01 ~ 현재)
 - Infrastructure Engineer (Card Authorization Systems)
 
-#### [HMG 소프티어 7기](https://softeer-bootcamp.com/)
+#### [HMG 소프티어 7기](https://softeerbootcamp.com/)
 - 현대자동차/기아 채용연계형 교육과정 (2025.12 ~ 2026.01)
 - Backend Developer
 
